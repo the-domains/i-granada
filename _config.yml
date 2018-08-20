@@ -1,0 +1,20 @@
+color:
+  lightness: 0.6033255813185417
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+  saturation: 0.020459750671978052
+  brandStrength: 0.7593463374672799
+  rhythmicContrast: 0.7496163853792512
+name: i-granada
+layout_spectrum: 0.4167928281240165
+typography_spectrum: 0.5652786078862846
+content: []
+github: true
+author:
+  name: Igor
+  email: igor@i-granada.es
+  url: 'http://zone.i-granada.es'
